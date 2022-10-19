@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilson Osuji, A Software Developer</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **everything about software development**
+- 🌱 I’m currently learning **everything about Software Engineering**
 
 - 💬 Ask me about **How to search in Stack overflow?**
 
