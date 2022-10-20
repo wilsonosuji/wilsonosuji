@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me **wilsonosuji@gmail.com**
+- 📫 How to reach me **wilsonosuji88@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
