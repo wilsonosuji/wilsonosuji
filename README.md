@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **How to search in Stack overflow?**
 
+- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me **wilsonosuji@gmail.com**
 
 
