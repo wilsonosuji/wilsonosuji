@@ -7,7 +7,9 @@
 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me **wilsonosuji88@gmail.com**
+- 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-osuji/)](https://linkedin.com/in/wilson-osuji-68231a184/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilsonosuji88.com)](mailto:wilsonosuji88@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,17 +51,6 @@
    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<div width="100%" class="flex-container"><!-- .element: style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-between" -->
-
-       
-<img style="background-color:dodgerblue;margin:100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonosuji&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" /> 
-  
-       
-<img style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api?username=wilsonosuji&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" />
-
-
-</div>
-
 <br />
 
 ## 🏆 My badges 🏆
@@ -67,5 +58,7 @@
 <!--START_SECTION:badges-->
 [![Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://images.credly.com/size/220x220/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](https://www.credly.com/earner/earned/badge/35311161-8641-4b47-97e4-137e319e3a7a "Aviatrix Certified Engineer - Multi-Cloud Network Associate")
 <!--END_SECTION:badges-->
+
+<a href="https://github.com/Abinet508"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=Abinet508&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinet508&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
 
 <br />
