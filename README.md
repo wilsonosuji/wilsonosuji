@@ -29,7 +29,7 @@
 ## 🏆 My badges 🏆
 
 <!--START_SECTION:badges-->
-[![Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://images.credly.com/size/680x680/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](https://www.credly.com/earner/earned/badge/35311161-8641-4b47-97e4-137e319e3a7a "Aviatrix Certified Engineer - Multi-Cloud Network Associate")
+[![Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://images.credly.com/size/220x220/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](https://www.credly.com/earner/earned/badge/35311161-8641-4b47-97e4-137e319e3a7a "Aviatrix Certified Engineer - Multi-Cloud Network Associate")
 <!--END_SECTION:badges-->
 
 <br />
