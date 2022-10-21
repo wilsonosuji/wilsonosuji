@@ -47,6 +47,8 @@
    ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
    ![Jira](https://img.shields.io/badge/Jira-%23404d59.svg?style=for-the-badge&logo=Jira&logoColor=white)
+   ![Devops](https://img.shields.io/badge/Devops-%23404d59.svg?style=for-the-badge&logo=Devops&logoColor=white)
+   ![Slack](https://img.shields.io/badge/Slack-%23404d59.svg?style=for-the-badge&logo=Slack&logoColor=white)
    
  ## Hosting
    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
