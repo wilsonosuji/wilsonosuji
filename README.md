@@ -58,6 +58,32 @@
    ![Jira](https://img.shields.io/badge/Jira-%2300f.svg?style=for-the-badge&logo=Jira&logoColor=white)
    ![Slack](https://img.shields.io/badge/Slack-%23404d59.svg?style=for-the-badge&logo=Slack&logoColor=white)
    
+ ## DevOps Technology Skills
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Jenkins</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jenkins.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Kubernetes</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Azure</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+
  ## Hosting
    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
