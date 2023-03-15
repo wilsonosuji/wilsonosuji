@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson Osuji, A Software Developer</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=wilsonosuji+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
-
-![line](./img/line.gif)
 
 - 🌱 I’m currently learning **everything about Software Engineering**
 
