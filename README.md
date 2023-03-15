@@ -92,15 +92,10 @@
 ## 🏆 My badges 🏆
 
 <!--START_SECTION:badges-->
-[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/680x680/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-100x100.png)](https://www.credly.com/badges/60a11573-5a10-4a26-89c9-5465c44a889c "Microsoft Certified: DevOps Engineer Expert")
-
 [![Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://images.credly.com/size/200x200/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](https://www.credly.com/earner/earned/badge/35311161-8641-4b47-97e4-137e319e3a7a "Aviatrix Certified Engineer - Multi-Cloud Network Associate")
 
-[![Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://images.credly.com/size/200x200/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](https://www.credly.com/earner/earned/badge/35311161-8641-4b47-97e4-137e319e3a7a "Aviatrix Certified Engineer - Multi-Cloud Network Associate")
-
-[![Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://images.credly.com/size/200x200/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](https://www.credly.com/earner/earned/badge/35311161-8641-4b47-97e4-137e319e3a7a "Aviatrix Certified Engineer - Multi-Cloud Network Associate")
 <!--END_SECTION:badges-->
 
-<a href="https://github.com/Abinet508"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=Abinet508&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinet508&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
+<a href="https://github.com/Abinet508"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=wilsonosuji&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonosuji&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
 
 <br />
