@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilson Osuji, A Software Developer</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
+<img align="right" alt="GIF" src="https://github.com/wilsonosuji/wilsonosuji/blob/main/Gif.gif" width="360"/>
 
 - 🌱 I’m currently learning **everything about Software Engineering**
 
