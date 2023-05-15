@@ -84,20 +84,20 @@
   </tbody>
 </table>
 
- ## Hosting
+ ## Hosting:
    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <br />
 
-## 🏆 My badges 🏆
+## 🏆 My badges 🏆:
 
 <!--START_SECTION:badges-->
 [![Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://images.credly.com/size/200x200/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png)](https://www.credly.com/earner/earned/badge/35311161-8641-4b47-97e4-137e319e3a7a "Aviatrix Certified Engineer - Multi-Cloud Network Associate")
 
 <!--END_SECTION:badges-->
 
-## Github Stats
+## Github Stats 🧮:
 <a href="https://github.com/wilsonosuji"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=wilsonosuji&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonosuji&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
 *NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
 
