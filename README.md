@@ -99,6 +99,7 @@
 
 ## Github Stats 🧮:
 <a href="https://github.com/wilsonosuji"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=wilsonosuji&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonosuji&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
+
 *NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
 
 <br />
